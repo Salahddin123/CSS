@@ -1,0 +1,21 @@
+.contenedor{
+    background-color: wheat ;
+    padding: 10px;
+}
+.texto{
+    color :yellow ;
+}
+.fecha{
+    color: black;
+}
+.select{
+    background-color: azure ;
+}
+.opciones{
+    font-weight: bold;
+}
+button{
+    background-color: yellow ; color: white;
+    border: none;
+    padding: 10px;
+}
