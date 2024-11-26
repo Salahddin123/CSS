@@ -1,21 +1,37 @@
-.contenedor{
-    background-color: wheat ;
-    padding: 10px;
+#id_contenedor_quien_eres {
+    background-color: coral;
 }
-.texto{
-    color :yellow ;
+
+#id_contenedor_de_donde_eres {
+    background-color: aqua;
 }
-.fecha{
-    color: black;
+
+#id_contenedor_inicio_sesion {
+    background-color: yellow;
 }
-.select{
-    background-color: azure ;
+
+#id_contenedor_condiciones {
+    background-color: purple;
+    color: white;
 }
-.opciones{
-    font-weight: bold;
+
+#id_contenedor_condiciones legend {
+    background-color: purple;
+    color: red;
 }
-button{
-    background-color: yellow ; color: white;
-    border: none;
-    padding: 10px;
+
+.clase_texto {
+    color: red;
+}
+
+.clase_fecha {
+    color: yellow;
+}
+
+.clase_select {
+    color: green;
+}
+
+.clase_opciones {
+    color: orange;
 }

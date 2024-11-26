@@ -1,0 +1,35 @@
+.div1 {
+    background-color: red;
+    width: 5em;
+    height: 5em;
+    margin: 0cm;
+}
+
+.div2 {
+    background-color: blue;
+    width: 5cm;
+    height: 5cm;
+    margin-right: 2%;
+}
+
+.div3 {
+    background-color: green;
+    width: 5px;
+    height: 5px;
+    margin-left: 0%;
+    margin-bottom: 0cap;
+}
+
+.div4 {
+    background-color: yellow;
+    width: 5rem;
+    height: 5rem;
+}
+
+.div5 {
+    background-color: purple;
+    width: 50%;
+    height: 50%;
+    margin-right: 0%;
+   margin-bottom: 0%;
+}

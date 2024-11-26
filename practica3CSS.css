@@ -1,14 +1,14 @@
-.tarjeta > h2 {
+.tarjeta h2 {
     color: orange;
     font-size: 20px;
 }
 
-.tarjeta > .descripcion {
-    color: darkgray;
+.descripcion {
+    color: #333; /* Gris oscuro */
     font-style: italic;
 }
 
-.tarjeta > .contenido > p {
+.contenido p {
     color: green;
     margin: 10px 0;
 }

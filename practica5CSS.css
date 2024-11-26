@@ -1,0 +1,32 @@
+#contenedor1 {
+    background-color: lightblue;
+    padding: 20px;
+    transition: opacity 0.3s;
+}
+
+#contenedor1:hover {
+    opacity: 0.9;
+}
+
+#contenedor2 {
+    background-color: lightcoral;
+    padding: 20px;
+    transition: opacity 0.3s;
+}
+
+#contenedor2:hover {
+    opacity: 0.9;
+}
+
+.boton {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin: 5px;
+    cursor: pointer;
+}
+
+#contenedor2 .boton:active {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}

@@ -1,11 +1,11 @@
-.tarjeta > h2 + p {
-    background-color: yellow; 
+h2 + p {
+    background-color: yellow;
 }
 
-.tarjeta > .contenido > p:first-of-type {
-    color: blue; 
+.contenido p:first-of-type {
+    color: blue;
 }
 
-.tarjeta > .contenido > p + p {
-    font-size: 12px; 
+.contenido p + p {
+    font-size: 12px;
 }
